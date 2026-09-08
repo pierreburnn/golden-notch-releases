@@ -4,7 +4,7 @@
 
 # Golden Notch
 
-English · [🇫🇷 Lire en français](README.md)
+English · [🇫🇷 Lire en français](README.fr.md)
 
 ### Your notch. Your everyday, within reach.
 
