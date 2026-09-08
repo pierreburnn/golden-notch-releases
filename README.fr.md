@@ -143,6 +143,8 @@ Cet exemple de démonstration montre un **MacBook Pro M3 Pro**, avec deux ventil
 
 **Premier lancement :** l’application n’est pas signée Developer ID ni notarisée par Apple. Après avoir vérifié sa provenance, vous pouvez avoir besoin de passer par **Réglages Système → Confidentialité et sécurité → Ouvrir quand même**. Les autorisations peuvent être redemandées après une mise à jour.
 
+Depuis la version **1.6.1**, les données d’essai et de licence sont conservées localement sans accès au trousseau et sans demande de mot de passe Mac pour le compte. Une mise à jour depuis 1.6 démarre un nouvel essai de 7 jours. La vérification des licences passe par Lemon Squeezy lorsque la boutique est configurée.
+
 ### Les versions suivantes arrivent dans l’app
 
 Golden Notch reçoit régulièrement des mises à jour pour apporter des améliorations, des corrections et de nouvelles fonctionnalités. **L’achat à vie inclut les mises à jour futures, sans abonnement ni supplément.** Elles sont proposées directement dans l’application via le système de mise à jour intégré, sans devoir télécharger et réinstaller un nouveau DMG à chaque version.
@@ -211,7 +213,7 @@ Si Golden Notch vous est utile, une **étoile sur ce dépôt** aide d’autres u
 
 **Mises à jour régulières incluses dans l’achat à vie, directement dans l’application.**
 
-La boutique et l'activation des licences sont en préparation. Le téléchargement public actuel (v1.6) inclut l'essai de 7 jours et la section Compte. L'achat et l'activation des licences restent désactivés jusqu'au raccordement de la boutique. L'accès bêta sera prolongé si la boutique n'est pas prête à la fin d'un essai.
+La boutique et l'activation des licences sont en préparation. Le téléchargement public actuel (v1.6.1) inclut l'essai de 7 jours et la section Compte. L'achat et l'activation des licences restent désactivés jusqu'au raccordement de la boutique. L'accès bêta sera prolongé si la boutique n'est pas prête à la fin d'un essai.
 
 ### Golden Notch et NotchNook
 

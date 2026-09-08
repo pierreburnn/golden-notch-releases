@@ -139,6 +139,8 @@ This demonstration uses a **MacBook Pro M3 Pro**, with two fans running at **1,8
 
 **First launch:** this app is not Developer ID signed or notarized by Apple. After checking its source, you may need to use **System Settings → Privacy & Security → Open Anyway**. Permissions may be requested again after an update.
 
+Since **1.6.1**, trial and license data are stored locally without Keychain access or a Mac password prompt for the account. Upgrading from 1.6 starts a new 7-day trial. Licenses are verified through Lemon Squeezy when the store is configured.
+
 ### Updates arrive inside the app
 
 Golden Notch receives regular updates with improvements, fixes and new features. **Your lifetime purchase includes future updates, with no subscription or additional update fee.** Updates are delivered directly through the built-in updater, so you do not need to download and reinstall a new DMG for each release.
@@ -207,7 +209,7 @@ If Golden Notch is useful to you, a **star on this repository** helps other Mac 
 
 **Regular updates are included with your lifetime purchase, directly in the app.**
 
-The store and license activation are being prepared. The current public download (v1.6) includes the 7-day trial and Account section. Purchases and license activation remain disabled until the store is connected. Beta access will be extended if the store is not ready when a trial ends.
+The store and license activation are being prepared. The current public download (v1.6.1) includes the 7-day trial and Account section. Purchases and license activation remain disabled until the store is connected. Beta access will be extended if the store is not ready when a trial ends.
 
 ### Golden Notch and NotchNook
 
