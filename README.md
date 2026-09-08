@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **First launch: no Apple Developer ID signature**
+> Golden Notch is not signed with an Apple Developer ID certificate and is not notarized by Apple. macOS may therefore block its first launch because it cannot verify the developer or check the app through Apple's notarization service.
+>
+> If you downloaded Golden Notch from [this repository's releases](https://github.com/pierreburnn/golden-notch-releases/releases/latest) and choose to trust it, first try opening the app, then go to **System Settings → Privacy & Security → Open Anyway** and confirm. This permission is separate from the camera, calendar and other feature permissions requested inside the app. [Apple's explanation](https://support.apple.com/en-us/102445).
+
 <div align="center">
 
 <img src="assets/icon.png" width="104" alt="Golden Notch beige and black app icon" />
@@ -178,3 +184,22 @@ If Golden Notch is useful to you, a **star on this repository** helps other Mac 
 [Download the latest release](https://github.com/pierreburnn/golden-notch-releases/releases/latest) · [Share feedback](https://github.com/pierreburnn/golden-notch-releases/issues) · [Release notes](https://github.com/pierreburnn/golden-notch-releases/releases)
 
 </div>
+
+## 7 days free. Then $9.99 for a lifetime license.
+
+**Planned launch offer: try all features for 7 days, with no credit card required. Then unlock Golden Notch with a one-time payment of US$9.99 — no subscription and no automatic charge at the end of the trial.**
+
+The store and license activation are being prepared. The current public download is an early preview (v1.4); the 7-day trial and purchase flow will be delivered in a subsequent release. Beta access will be extended if the store is not ready when a trial ends.
+
+### Golden Notch and NotchNook
+
+| Product | One-time purchase |
+| :--- | :--- |
+| **Golden Notch** | **US$9.99 lifetime license — planned launch price** |
+| **NotchNook** | **US$25 listed price** |
+
+NotchNook's price was checked on its [official website](https://lo.cafe/notchnook) on September 8, 2026, excluding promotions; its one-time purchase covers five devices. Prices and applicable taxes may vary. Golden Notch's activation terms will be shown at checkout when the store opens.
+
+Golden Notch brings together **media controls, weather, a per-app audio mixer, clipboard history, calendar, device batteries and Personal Hotspot access**, alongside the other modules described above. This is a description of Golden Notch's features, not a claim that NotchNook lacks each of them.
+
+Golden Notch is an independent app, not affiliated with Apple or NotchNook / lo.cafe.

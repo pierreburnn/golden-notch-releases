@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **Premier lancement : absence de signature Apple Developer ID**
+> Golden Notch ne possède pas de signature avec un certificat Apple Developer ID et n'est pas notarisée par Apple. macOS peut donc bloquer son premier lancement, car il ne peut pas vérifier le développeur ni contrôler l'app via le service de notarisation Apple.
+>
+> Si vous avez téléchargé Golden Notch depuis [les releases de ce dépôt](https://github.com/pierreburnn/golden-notch-releases/releases/latest) et choisissez de lui faire confiance, essayez d'abord d'ouvrir l'app, puis allez dans **Réglages Système → Confidentialité et sécurité → Ouvrir quand même** et confirmez. Cette autorisation est distincte des accès à la caméra, au calendrier et aux autres fonctions demandés dans l'app. [Explications d'Apple](https://support.apple.com/fr-fr/102445).
+
 <div align="center">
 
 <img src="assets/icon.png" width="104" alt="Icône beige et noire de Golden Notch" />
@@ -182,3 +188,22 @@ Si Golden Notch vous est utile, une **étoile sur ce dépôt** aide d’autres u
 [Télécharger la dernière version](https://github.com/pierreburnn/golden-notch-releases/releases/latest) · [Signaler un problème](https://github.com/pierreburnn/golden-notch-releases/issues) · [Nouveautés](https://github.com/pierreburnn/golden-notch-releases/releases)
 
 </div>
+
+## 7 jours gratuits. Puis 9,99 $ pour une licence à vie.
+
+**Offre prévue au lancement : essayez toutes les fonctionnalités pendant 7 jours, sans carte bancaire. Débloquez ensuite Golden Notch pour un paiement unique de 9,99 $ US — sans abonnement et sans prélèvement automatique à la fin de l'essai.**
+
+La boutique et l'activation des licences sont en préparation. Le téléchargement public actuel est une préversion (v1.4) ; l'essai de 7 jours et le parcours d'achat seront proposés dans une prochaine version. L'accès bêta sera prolongé si la boutique n'est pas prête à la fin d'un essai.
+
+### Golden Notch et NotchNook
+
+| Application | Achat unique |
+| :--- | :--- |
+| **Golden Notch** | **Licence à vie à 9,99 $ US — tarif prévu au lancement** |
+| **NotchNook** | **Prix affiché : 25 $ US** |
+
+Prix de NotchNook vérifié sur son [site officiel](https://lo.cafe/notchnook) le 8 septembre 2026, hors promotions ; son achat unique couvre cinq appareils. Les prix et taxes applicables peuvent varier. Les conditions d'activation de Golden Notch seront indiquées au paiement lors de l'ouverture de la boutique.
+
+Golden Notch réunit **commandes multimédias, météo, mixeur audio par application, historique du presse-papiers, calendrier, batteries des appareils et accès au partage de connexion**, ainsi que les autres modules présentés plus haut. Cette liste décrit Golden Notch, sans affirmer que chacune de ces fonctions est absente de NotchNook.
+
+Golden Notch est une application indépendante, sans affiliation avec Apple ou NotchNook / lo.cafe.
