@@ -21,7 +21,7 @@ Un espace pour vos médias, votre météo, vos événements et les petits gestes
 [![Télécharger](https://img.shields.io/badge/Télécharger_pour_Mac-DMG-d6bd92?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/pierreburnn/golden-notch-releases/releases/latest)
 [![Version](https://img.shields.io/github/v/release/pierreburnn/golden-notch-releases?style=for-the-badge&label=Version&color=262626)](https://github.com/pierreburnn/golden-notch-releases/releases/latest)
 
-**Apple Silicon · Interface en français · Mises à jour intégrées**
+**Apple Silicon · Interface en français et anglais · Mises à jour intégrées**
 
 [Découvrir](#un-accueil-pour-votre-journée) · [Fonctionnalités](#tout-ce-qui-vous-accompagne) · [Installer](#installer-golden-notch) · [Questions fréquentes](#questions-fréquentes)
 
@@ -211,7 +211,7 @@ Si Golden Notch vous est utile, une **étoile sur ce dépôt** aide d’autres u
 
 **Mises à jour régulières incluses dans l’achat à vie, directement dans l’application.**
 
-La boutique et l'activation des licences sont en préparation. Le téléchargement public actuel est une préversion (v1.4) ; l'essai de 7 jours et le parcours d'achat seront proposés dans une prochaine version. L'accès bêta sera prolongé si la boutique n'est pas prête à la fin d'un essai.
+La boutique et l'activation des licences sont en préparation. Le téléchargement public actuel (v1.6) inclut l'essai de 7 jours et la section Compte. L'achat et l'activation des licences restent désactivés jusqu'au raccordement de la boutique. L'accès bêta sera prolongé si la boutique n'est pas prête à la fin d'un essai.
 
 ### Golden Notch et NotchNook
 

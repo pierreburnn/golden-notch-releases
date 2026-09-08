@@ -19,7 +19,7 @@ Media controls, weather, calendar, clipboard and everyday tools — in your Mac�
 [![Download for Mac](https://img.shields.io/badge/Download_for_Mac-DMG-d6bd92?style=for-the-badge&logo=apple&logoColor=black)](https://github.com/pierreburnn/golden-notch-releases/releases/latest)
 [![Version](https://img.shields.io/github/v/release/pierreburnn/golden-notch-releases?style=for-the-badge&label=Version&color=262626)](https://github.com/pierreburnn/golden-notch-releases/releases/latest)
 
-**Early preview · Apple Silicon · French app interface · Built-in updates**
+**Early preview · Apple Silicon · French & English interface · Built-in updates**
 
 [Explore](#one-place-for-your-day) · [Features](#more-within-reach) · [Installation & compatibility](#install-golden-notch) · [Feedback](#help-shape-golden-notch)
 
@@ -27,7 +27,7 @@ Media controls, weather, calendar, clipboard and everyday tools — in your Mac�
 
 ![Golden Notch home panel showing media, calendar and camera mirror at 09:41](assets/home.png)
 
-> These images show the app in demonstration mode, with fictional data and the menu bar set to **09:41**. Actual content depends on your apps, devices and permissions. The app interface is currently in French.
+> These images show the app in demonstration mode, with fictional data and the menu bar set to **09:41**. Actual content depends on your apps, devices and permissions. Golden Notch supports French and English; some demonstration images show the French interface.
 
 ## One place for your day
 
@@ -207,7 +207,7 @@ If Golden Notch is useful to you, a **star on this repository** helps other Mac 
 
 **Regular updates are included with your lifetime purchase, directly in the app.**
 
-The store and license activation are being prepared. The current public download is an early preview (v1.4); the 7-day trial and purchase flow will be delivered in a subsequent release. Beta access will be extended if the store is not ready when a trial ends.
+The store and license activation are being prepared. The current public download (v1.6) includes the 7-day trial and Account section. Purchases and license activation remain disabled until the store is connected. Beta access will be extended if the store is not ready when a trial ends.
 
 ### Golden Notch and NotchNook
 
