@@ -4,6 +4,8 @@
 
 # Golden Notch
 
+[🇬🇧 Read in English](README.en.md) · Français
+
 ### Votre encoche. Votre quotidien, à portée de main.
 
 Un espace pour vos médias, votre météo, vos événements et les petits gestes du quotidien sur Mac.
