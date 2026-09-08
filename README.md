@@ -61,11 +61,32 @@ Parcourez les jours de la semaine et consultez les événements à venir. Lorsqu
 
 Le calendrier utilise les comptes déjà configurés dans Calendrier sur le Mac. L’accès se demande depuis l’app ; les événements se rechargent après l’accord de l’autorisation.
 
+## Copier, retrouver, coller
+
+Gardez vos copies à portée de main : textes, liens, images et extraits de code apparaissent dans l’historique du presse-papiers. Retrouvez un élément précédent pour le réutiliser sans retourner le chercher dans son application d’origine.
+
+![Historique du presse-papiers Golden Notch : exemples de texte, lien et code à 09:41](assets/clipboard.png)
+
+- Ouvrez le presse-papiers avec **⌃⌥V** — Contrôle + Option + V.
+- Parcourez les éléments avec les **flèches gauche et droite**, puis utilisez **Entrée** pour réutiliser la sélection.
+- Le bouton **Copier** remet l’élément dans le presse-papiers et ferme le panneau. Avec l’autorisation **Accessibilité**, l’app peut aussi le coller automatiquement dans l’application précédente ; sinon, terminez avec **⌘V**.
+- Un clic droit donne accès à **Copier sans fermer**. Vous pouvez aussi supprimer les éléments de l’historique.
+
 ## Vos appareils, d’un coup d’œil
 
 Consultez les niveaux de batterie disponibles pour le Mac et ses accessoires. Les AirPods, souris et claviers compatibles peuvent apparaître aux côtés des appareils mobiles associés.
 
-![Batteries Golden Notch : accessoires et niveaux de charge de démonstration](assets/battery.png)
+![Batteries Golden Notch : iPhone à 78 %, signal cellulaire de trois barres et réseau 5G, avec AirPods et MacBook](assets/battery.png)
+
+L’iPhone peut afficher sa batterie, les **barres de signal cellulaire** et le **type de réseau**, comme la 5G dans cet exemple. Ces informations apparaissent lorsqu’elles sont communiquées par les services de continuité de macOS.
+
+### Le partage de connexion depuis l’encoche
+
+Survolez la carte de l’iPhone pour faire apparaître le bouton **Partager**. Il permet de lancer la connexion du Mac au partage de connexion de cet iPhone.
+
+![Carte iPhone au survol dans Golden Notch : bouton bleu Partager avec l’icône de partage de connexion](assets/battery-hotspot.png)
+
+Ces deux vues montrent le même exemple fictif : la carte au repos, puis au survol. L’iPhone doit être disponible pour le partage de connexion ; l’association des appareils et les autorisations macOS peuvent être nécessaires. Le signal réseau et la connexion ne sont pas garantis pour tous les appareils.
 
 Pour l’iPhone et l’iPad, une première association USB avec « Faire confiance » peut être nécessaire avant les lectures sans fil. Les informations disponibles, notamment pour l’Apple Watch, dépendent de l’appareil, de son association et de la version du système.
 
