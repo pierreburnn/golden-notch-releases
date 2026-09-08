@@ -94,6 +94,14 @@ These two images show the same fictional example, at rest and on hover. The iPho
 
 For iPhone and iPad, an initial USB connection and **Trust This Computer** approval may be necessary before wireless readings work. Available information, including Apple Watch details, depends on the device, pairing and operating system.
 
+## Keep an eye on your MacBook Pro
+
+Check **CPU activity**, **memory usage**, **battery** and **network activity** from the notch. Follow activity over time in the chart, with the Mac model and its temperature in the header when available.
+
+![Golden Notch Monitor on a MacBook Pro M3 Pro showing CPU, memory, battery, network activity and fan speeds](assets/monitor.png)
+
+This demonstration uses a **MacBook Pro M3 Pro**, with two fans running at **1,850 and 1,900 RPM**. Fan speeds appear on supported MacBook Pro models when the sensors are accessible. These are fictional readings; available information depends on the hardware and macOS. The module displays fan speeds; it does not control them.
+
 ## More within reach
 
 | Module | What it does |
@@ -109,7 +117,7 @@ For iPhone and iPad, an initial USB connection and **Trust This Computer** appro
 | **Batteries** | Battery levels reported by connected devices. |
 | **Downloads** | Detected downloads and files in your Downloads folder. |
 | **Quick settings** | System controls, volume and brightness. |
-| **Monitor** | Available CPU, memory and network indicators. |
+| **Monitor** | CPU, memory, battery, network activity and supported MacBook Pro fan readings. |
 
 ### A few simple gestures
 
@@ -168,6 +176,12 @@ Golden Notch depends on information supplied by macOS, apps and devices. A sourc
 This repository presents the app and hosts downloads. The main Swift project is private. The app includes third-party components and their licenses or sources, plus some utilities and scripts needed for it to work.
 
 </details>
+
+## Coming soon: build your own plug-ins
+
+A **custom plug-in architecture** is planned so you can install extensions you code yourself and personalize Golden Notch with your own tools and modules.
+
+This feature is being prepared and is **not available yet**. Development and installation documentation will be published when it is ready.
 
 ## Help shape Golden Notch
 

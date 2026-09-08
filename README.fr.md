@@ -98,6 +98,14 @@ Ces deux vues montrent le même exemple fictif : la carte au repos, puis au surv
 
 Pour l’iPhone et l’iPad, une première association USB avec « Faire confiance » peut être nécessaire avant les lectures sans fil. Les informations disponibles, notamment pour l’Apple Watch, dépendent de l’appareil, de son association et de la version du système.
 
+## Votre MacBook Pro, sous surveillance
+
+Gardez un œil sur l'activité du **CPU**, l'utilisation de la **mémoire**, la **batterie** et le **réseau** depuis l'encoche. Le graphique permet de suivre l'évolution de l'activité, tandis que l'en-tête indique le modèle du Mac et sa température lorsqu'elle est disponible.
+
+![Moniteur Golden Notch sur un MacBook Pro M3 Pro : CPU, mémoire, batterie, activité réseau et ventilateurs](assets/monitor-fr.png)
+
+Cet exemple de démonstration montre un **MacBook Pro M3 Pro**, avec deux ventilateurs à **1 850 et 1 900 tr/min**. Les vitesses des ventilateurs s'affichent sur les MacBook Pro compatibles lorsque les capteurs sont accessibles. Les valeurs sont fictives ; les informations disponibles dépendent du matériel et de macOS. Ce module affiche les vitesses, sans régler les ventilateurs.
+
 ## Tout ce qui vous accompagne
 
 | Fonction | Ce que vous pouvez faire |
@@ -113,7 +121,7 @@ Pour l’iPhone et l’iPad, une première association USB avec « Faire confian
 | **Batteries** | Consulter les charges que les appareils connectés rendent disponibles. |
 | **Téléchargements** | Suivre les fichiers et téléchargements détectés dans le dossier Téléchargements. |
 | **Réglages rapides** | Accéder aux commandes système, au volume et à la luminosité. |
-| **Moniteur** | Consulter les indicateurs système disponibles : processeur, mémoire et réseau. |
+| **Moniteur** | Consulter le CPU, la mémoire, la batterie, le réseau et les ventilateurs des MacBook Pro compatibles. |
 
 ### Des gestes simples
 
@@ -172,6 +180,12 @@ Golden Notch dépend des informations publiées par macOS, les applications et l
 Ce dépôt présente l’application et héberge ses téléchargements. Le projet Swift principal est privé. L’application embarque des composants tiers et leurs licences ou sources, ainsi que certains utilitaires et scripts nécessaires à son fonctionnement.
 
 </details>
+
+## Bientôt : vos propres plug-ins
+
+Une **architecture de plug-ins personnalisés** est prévue pour permettre d'installer des extensions que vous codez vous-même et de personnaliser davantage Golden Notch avec vos propres outils et modules.
+
+Cette fonction est en préparation et **n'est pas encore disponible**. La documentation de développement et d'installation sera publiée lorsqu'elle sera prête.
 
 ## Faire grandir Golden Notch
 
