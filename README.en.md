@@ -141,6 +141,8 @@ This demonstration uses a **MacBook Pro M3 Pro**, with two fans running at **1,8
 
 ### Updates arrive inside the app
 
+Golden Notch receives regular updates with improvements, fixes and new features. **Your lifetime purchase includes future updates, with no subscription or additional update fee.** Updates are delivered directly through the built-in updater, so you do not need to download and reinstall a new DMG for each release.
+
 When automatic checking is enabled, Golden Notch checks for updates at launch and daily. You can also check manually under **Réglages → Mises à jour → Vérifier maintenant** (Settings → Updates → Check now).
 
 Update archives are checked against an **Ed25519 signature** before extraction. After relaunching, a window shows what changed; release notes also remain available in settings. You do not need a GitHub account or token to download updates.
@@ -202,6 +204,8 @@ If Golden Notch is useful to you, a **star on this repository** helps other Mac 
 ## 7 days free. Then $9.99 for a lifetime license.
 
 **Planned launch offer: try all features for 7 days, with no credit card required. Then unlock Golden Notch with a one-time payment of US$9.99 — no subscription and no automatic charge at the end of the trial.**
+
+**Regular updates are included with your lifetime purchase, directly in the app.**
 
 The store and license activation are being prepared. The current public download is an early preview (v1.4); the 7-day trial and purchase flow will be delivered in a subsequent release. Beta access will be extended if the store is not ready when a trial ends.
 

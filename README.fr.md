@@ -145,6 +145,8 @@ Cet exemple de démonstration montre un **MacBook Pro M3 Pro**, avec deux ventil
 
 ### Les versions suivantes arrivent dans l’app
 
+Golden Notch reçoit régulièrement des mises à jour pour apporter des améliorations, des corrections et de nouvelles fonctionnalités. **L’achat à vie inclut les mises à jour futures, sans abonnement ni supplément.** Elles sont proposées directement dans l’application via le système de mise à jour intégré, sans devoir télécharger et réinstaller un nouveau DMG à chaque version.
+
 Lorsque la recherche automatique est activée, Golden Notch vérifie les mises à jour au lancement puis chaque jour. Vous pouvez aussi lancer une recherche dans **Réglages → Mises à jour → Vérifier maintenant**.
 
 Les archives sont vérifiées avec une signature **Ed25519** avant leur extraction. Après le redémarrage, une fenêtre présente les nouveautés de la version ; elles restent consultables dans les réglages. Aucun compte GitHub ni token n’est nécessaire pour télécharger les mises à jour.
@@ -206,6 +208,8 @@ Si Golden Notch vous est utile, une **étoile sur ce dépôt** aide d’autres u
 ## 7 jours gratuits. Puis 9,99 $ pour une licence à vie.
 
 **Offre prévue au lancement : essayez toutes les fonctionnalités pendant 7 jours, sans carte bancaire. Débloquez ensuite Golden Notch pour un paiement unique de 9,99 $ US — sans abonnement et sans prélèvement automatique à la fin de l'essai.**
+
+**Mises à jour régulières incluses dans l’achat à vie, directement dans l’application.**
 
 La boutique et l'activation des licences sont en préparation. Le téléchargement public actuel est une préversion (v1.4) ; l'essai de 7 jours et le parcours d'achat seront proposés dans une prochaine version. L'accès bêta sera prolongé si la boutique n'est pas prête à la fin d'un essai.
 
