@@ -209,20 +209,20 @@ Si Golden Notch vous est utile, une **étoile sur ce dépôt** aide d’autres u
 
 ## 7 jours gratuits. Puis 9,99 $ pour une licence à vie.
 
-**Offre prévue au lancement : essayez toutes les fonctionnalités pendant 7 jours, sans carte bancaire. Débloquez ensuite Golden Notch pour un paiement unique de 9,99 $ US — sans abonnement et sans prélèvement automatique à la fin de l'essai.**
+**Offre de lancement : essayez toutes les fonctionnalités pendant 7 jours, sans carte bancaire. Débloquez ensuite Golden Notch pour un paiement unique de 9,99 $ US, taxes incluses — sans abonnement et sans prélèvement automatique à la fin de l'essai.**
 
 **Mises à jour régulières incluses dans l’achat à vie, directement dans l’application.**
 
-La boutique et l'activation des licences sont en préparation. Le téléchargement public actuel (v1.6.1) inclut l'essai de 7 jours et la section Compte. L'achat et l'activation des licences restent désactivés jusqu'au raccordement de la boutique. L'accès bêta sera prolongé si la boutique n'est pas prête à la fin d'un essai.
+**La boutique est ouverte depuis la version 1.7.** Achetez depuis Réglages → Compte et licence ou sur [la page Stripe](https://buy.stripe.com/3cI4gz39CcHId6D07T9R600). Votre clé est affichée après l’achat et envoyée par e-mail. Collez-la dans l’app avec votre e-mail d’achat. La licence permet deux Mac simultanés. Les dates d’essai existantes sont conservées lors d’une mise à jour ; la prolongation bêta prend fin avec cette version.
 
 ### Golden Notch et NotchNook
 
 | Application | Achat unique |
 | :--- | :--- |
-| **Golden Notch** | **Licence à vie à 9,99 $ US — tarif prévu au lancement** |
+| **Golden Notch** | **Licence à vie à 9,99 $ US, taxes incluses** |
 | **NotchNook** | **Prix affiché : 25 $ US** |
 
-Prix de NotchNook vérifié sur son [site officiel](https://lo.cafe/notchnook) le 8 septembre 2026, hors promotions ; son achat unique couvre cinq appareils. Les prix et taxes applicables peuvent varier. Les conditions d'activation de Golden Notch seront indiquées au paiement lors de l'ouverture de la boutique.
+Prix de NotchNook vérifié sur son [site officiel](https://lo.cafe/notchnook) le 8 septembre 2026, hors promotions ; son achat unique couvre cinq appareils. Les prix et taxes applicables peuvent varier. Golden Notch permet deux Mac simultanés ; vous pouvez libérer une activation depuis les réglages.
 
 Golden Notch réunit **commandes multimédias, météo, mixeur audio par application, historique du presse-papiers, calendrier, batteries des appareils et accès au partage de connexion**, ainsi que les autres modules présentés plus haut. Cette liste décrit Golden Notch, sans affirmer que chacune de ces fonctions est absente de NotchNook.
 
