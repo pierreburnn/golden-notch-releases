@@ -232,3 +232,8 @@ Golden Notch est une application indépendante, sans affiliation avec Apple ou N
 ## Statistiques facultatives (1.8)
 
 Le partage est **désactivé par défaut**. Dans Réglages → Confidentialité, vous pouvez partager l’activité, les ouvertures de modules, les clics d’achat et votre pays, région et ville approximatifs, estimés par Cloudflare à partir de votre connexion. Un identifiant aléatoire distinct est utilisé. Aucune IP brute, position GPS, donnée du presse-papiers, adresse e-mail ou clé de licence conservée dans les statistiques. Conservation de 90 jours. Désactiver arrête les prochains envois, sans affecter l’accès à l’app, l’essai ou la licence. Les VPN et réseaux mobiles peuvent fausser la localisation.
+
+
+### Mesure publicitaire sur le site
+
+Les pages de téléchargement et de confirmation d’achat proposent un choix distinct et facultatif de mesure publicitaire X. Après acceptation, X peut recevoir les visites, demandes de téléchargement et montants/devises des achats confirmés, avec des identifiants publicitaires et des données réseau. Aucun e-mail ni clé de licence n’est transmis au pixel. Choix mémorisé 30 jours, retirable via Advertising privacy choices. Accepter les statistiques de l’app n’active pas le suivi X. Les préférences du navigateur et bloqueurs peuvent empêcher la mesure. Voir la [politique de confidentialité X](https://x.com/en/privacy).
