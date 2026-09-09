@@ -227,3 +227,8 @@ Prix de NotchNook vérifié sur son [site officiel](https://lo.cafe/notchnook) l
 Golden Notch réunit **commandes multimédias, météo, mixeur audio par application, historique du presse-papiers, calendrier, batteries des appareils et accès au partage de connexion**, ainsi que les autres modules présentés plus haut. Cette liste décrit Golden Notch, sans affirmer que chacune de ces fonctions est absente de NotchNook.
 
 Golden Notch est une application indépendante, sans affiliation avec Apple ou NotchNook / lo.cafe.
+
+
+## Statistiques facultatives (1.8)
+
+Le partage est **désactivé par défaut**. Dans Réglages → Confidentialité, vous pouvez partager l’activité, les ouvertures de modules, les clics d’achat et votre pays, région et ville approximatifs, estimés par Cloudflare à partir de votre connexion. Un identifiant aléatoire distinct est utilisé. Aucune IP brute, position GPS, donnée du presse-papiers, adresse e-mail ou clé de licence conservée dans les statistiques. Conservation de 90 jours. Désactiver arrête les prochains envois, sans affecter l’accès à l’app, l’essai ou la licence. Les VPN et réseaux mobiles peuvent fausser la localisation.
