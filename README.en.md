@@ -228,3 +228,8 @@ Golden Notch is an independent app, not affiliated with Apple or NotchNook / lo.
 ## Optional usage statistics (1.8)
 
 Sharing is **off by default**. In Settings → Privacy, you can enable app activity, module-open and purchase-click statistics, plus your approximate country, region and city as estimated by Cloudflare from your connection. A separate random analytics identifier is used. No raw IP address, GPS coordinates, clipboard content, email address or license key is retained in analytics. Data expires after 90 days. Disabling sharing stops future sends. This choice does not affect app access, your trial or your license. VPNs and mobile networks can make the location inaccurate.
+
+
+### Website advertising measurement
+
+The download and purchase-confirmation pages offer a separate, optional X advertising measurement choice. If accepted, X may receive visits, download requests and confirmed purchase amounts/currencies with advertising identifiers and network metadata. No email or license key is sent to the pixel. The choice is remembered for 30 days and can be withdrawn through Advertising privacy choices. App usage consent does not enable X tracking. Browser privacy signals and blockers may prevent measurement. See [X privacy policy](https://x.com/en/privacy).
