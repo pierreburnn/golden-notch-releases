@@ -139,7 +139,7 @@ This demonstration uses a **MacBook Pro M3 Pro**, with two fans running at **1,8
 
 **First launch:** this app is not Developer ID signed or notarized by Apple. After checking its source, you may need to use **System Settings → Privacy & Security → Open Anyway**. Permissions may be requested again after an update.
 
-Since **1.6.1**, trial and license data are stored locally without Keychain access or a Mac password prompt for the account. Upgrading from 1.6 starts a new 7-day trial. Licenses are verified through Lemon Squeezy when the store is configured.
+Since **1.6.1**, trial and license data are stored locally without Keychain access or a Mac password prompt for the account. Upgrading from 1.6 starts a new 7-day trial. Licenses are verified by the Golden Notch service after a Stripe purchase. No payment secret is bundled in the app.
 
 ### Updates arrive inside the app
 
@@ -205,20 +205,20 @@ If Golden Notch is useful to you, a **star on this repository** helps other Mac 
 
 ## 7 days free. Then $9.99 for a lifetime license.
 
-**Planned launch offer: try all features for 7 days, with no credit card required. Then unlock Golden Notch with a one-time payment of US$9.99 — no subscription and no automatic charge at the end of the trial.**
+**Launch offer: try all features for 7 days, with no credit card required. Then unlock Golden Notch with a one-time payment of US$9.99, taxes included — no subscription and no automatic charge at the end of the trial.**
 
 **Regular updates are included with your lifetime purchase, directly in the app.**
 
-The store and license activation are being prepared. The current public download (v1.6.1) includes the 7-day trial and Account section. Purchases and license activation remain disabled until the store is connected. Beta access will be extended if the store is not ready when a trial ends.
+**The store is open starting with version 1.7.** Purchase from Settings → Account & License or [Stripe checkout](https://buy.stripe.com/3cI4gz39CcHId6D07T9R600). Your license key appears after purchase and arrives by email. Paste it into the app with your purchase email. Two simultaneous Mac activations are included. Existing trial dates are preserved during updates; beta extensions end with this store-enabled release.
 
 ### Golden Notch and NotchNook
 
 | Product | One-time purchase |
 | :--- | :--- |
-| **Golden Notch** | **US$9.99 lifetime license — planned launch price** |
+| **Golden Notch** | **US$9.99 lifetime license, taxes included** |
 | **NotchNook** | **US$25 listed price** |
 
-NotchNook's price was checked on its [official website](https://lo.cafe/notchnook) on September 8, 2026, excluding promotions; its one-time purchase covers five devices. Prices and applicable taxes may vary. Golden Notch's activation terms will be shown at checkout when the store opens.
+NotchNook's price was checked on its [official website](https://lo.cafe/notchnook) on September 8, 2026, excluding promotions; its one-time purchase covers five devices. Prices and applicable taxes may vary. Golden Notch allows two simultaneous Macs; deactivate one in Settings to free its slot.
 
 Golden Notch brings together **media controls, weather, a per-app audio mixer, clipboard history, calendar, device batteries and Personal Hotspot access**, alongside the other modules described above. This is a description of Golden Notch's features, not a claim that NotchNook lacks each of them.
 
