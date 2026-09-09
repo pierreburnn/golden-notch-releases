@@ -143,7 +143,7 @@ Cet exemple de démonstration montre un **MacBook Pro M3 Pro**, avec deux ventil
 
 **Premier lancement :** l’application n’est pas signée Developer ID ni notarisée par Apple. Après avoir vérifié sa provenance, vous pouvez avoir besoin de passer par **Réglages Système → Confidentialité et sécurité → Ouvrir quand même**. Les autorisations peuvent être redemandées après une mise à jour.
 
-Depuis la version **1.6.1**, les données d’essai et de licence sont conservées localement sans accès au trousseau et sans demande de mot de passe Mac pour le compte. Une mise à jour depuis 1.6 démarre un nouvel essai de 7 jours. La vérification des licences passe par Lemon Squeezy lorsque la boutique est configurée.
+Depuis la version **1.6.1**, les données d’essai et de licence sont conservées localement sans accès au trousseau et sans demande de mot de passe Mac pour le compte. Une mise à jour depuis 1.6 démarre un nouvel essai de 7 jours. Depuis la version 1.7, les licences sont vérifiées par le service Golden Notch après un achat Stripe. Aucun secret de paiement n’est intégré dans l’app.
 
 ### Les versions suivantes arrivent dans l’app
 
